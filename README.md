@@ -1,0 +1,2 @@
+# 2012-2013_UEFA_Champions_League_xG_Performance_Audit
+This project delivers a comprehensive, data-driven tactical audit of the historic 2013 UEFA Champions League Final between Borussia Dortmund and Bayern Munich at Wembley. Moving beyond traditional box-score metrics, this analysis utilizes high-fidelity event data to dissect team momentum, spatial shot quality, and individual finishing efficiency.
