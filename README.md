@@ -35,6 +35,7 @@ A chronological step-plot tracking the accumulated xG variance from the 1st to t
 ---
 
 # Tech Stack & Open-Source Libraries
+* **Colab Link:** https://colab.research.google.com/drive/1K4I5gB7EVR6mjWxEu4zoYys8gePr0esO?usp=sharing
 * **Language:** Python 3
 * **Data Ingestion:** `statsbombpy` (API client for corporate StatsBomb servers)
 * **Spatial Pitch Modeling:** `mplsoccer` (Standardized engineering framework for pitch grids)
